@@ -1,0 +1,89 @@
+body{
+  background-color: #aacfcf;
+}
+
+h1 {
+  padding: 3% 0%;
+  text-align: center;
+  font-family: 'Sacramento';
+  color: black;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Ubuntu';
+  color: black;
+}
+
+.row{
+  margin: 3% 20%;
+  text-align: center;
+}
+
+.playerSection{
+  padding-top: 5%;
+  color: white;
+}
+
+#playerOne{
+  text-align: center;
+}
+
+.rollButton{
+  margin-top: 15%;
+}
+
+.dice1{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice1.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+  }
+
+.dice2{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice2.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+}
+
+.dice3{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice3.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+  }
+
+.dice4{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice4.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+}
+
+.dice5{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice5.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+  }
+
+.dice6{
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background: url('Dice/dice6.png');
+  background-size: cover;
+  /* border-radius: 20px; */
+}
